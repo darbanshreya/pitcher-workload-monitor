@@ -2,7 +2,7 @@
 
 A web app and dashboard that track Boston Red Sox pitcher workload and flag changes in fastball velocity and release point that can signal fatigue. Built on public Statcast pitch data from Baseball Savant.
 
-**Live app:** [add your Streamlit link]
+**Live app:** https://redsox-pitcher-workload.streamlit.app/
 **Dashboard:** [add your Tableau Public link]
 
 ![App screenshot](screenshots/app.png)
